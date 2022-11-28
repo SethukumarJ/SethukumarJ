@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sethukumarj" alt="sethukumarj" /></a> </p>
 
-- 🌱 I’m currently learning **Gorilla MUX,Gin**
+- 🌱 I’m currently learning **GO Lang**
 
 - 👨‍💻 All of my projects are available at [https://sethukumarj.github.io/PersonalPortfolio/](https://sethukumarj.github.io/PersonalPortfolio/)
 
