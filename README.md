@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **GO Lang**
 
-- 👨‍💻 All of my projects are available at [https://sethukumarj.github.io/PersonalPortfolio/](https://sethukumarj.github.io/PersonalPortfolio/)
+- 👨‍💻 Click to know more about me [sethukumarj.com](https://sethukumarj.com)
 
 - 💬 Ask me about **Golang,flutter etc...**
 
