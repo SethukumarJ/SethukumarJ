@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **GO Lang**
 
-- 👨‍💻 Click to know more about me [sethukumarj.com](https://sethukumarj.com)
+- 👨‍💻 Click to know more about me [sethukumarj.com](https://sethukumarj.com) , [sethu.cusat.me](https://sethu.cusat.me)
 
 - 💬 Ask me about **Golang,flutter etc...**
 
