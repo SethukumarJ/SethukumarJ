@@ -32,3 +32,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethukumarj&show_icons=true&locale=en" alt="sethukumarj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethukumarj&" alt="sethukumarj" /></p>
+### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohittp0&theme=gruvbox" alt="Stats"  /></p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohittp0&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sethukumarj0&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
