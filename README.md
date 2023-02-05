@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm also an artist**
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sethukumarj&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sethukumarj&theme=discord&no-frame=false&no-bg=false&margin-w=7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,8 @@
 
 
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sethukumarj&theme=gruvbox" alt="Stats"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sethukumarj&theme=dark&hide_border=false"  /></p>
+
 
 <hr>
 <p align="center">
