@@ -8,7 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **GO Lang**
+- 🌱 I’m working as Software Engineer in sellerapp.
+
+- Click to see my Company github Profile [sethusellerapp](https://gihhub.com/sethusellerapp)
 
 - 👨‍💻 Click to know more about me [sethukumarj.com](https://sethukumarj.com) , [sethu.cusat.me](https://sethu.cusat.me)
 
