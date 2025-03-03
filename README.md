@@ -1,4 +1,3 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Sethukumar J</h1>
 <h3 align="center">Golang developer from India</h3>
 <img align= "right" alt="golang" width="150" src = "https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
